@@ -1,4 +1,4 @@
 git add --a
-git commit -m "Ìí¼ÓÍ¼Æ¬"
+git commit -m "????"
 git push
 pause
