@@ -1,3 +1,0 @@
-[submodule "contents/blog/image/douban_pics/movies/image_compress"]
-	path = contents/blog/image/douban_pics/movies/image_compress
-	url = git@github.com:CS-Tao/ImageCompressor.git
