@@ -1,0 +1,955 @@
+{
+	"status": "success",
+	"code": "0",
+	"message": "",
+	"meta": {
+		"description": "本文件已对学号启用md5加密，只针对安卓版v1.2.0、桌面版v1.5.0及其之后的版本，对老版本不再提供用户认证支持",
+		"encryptor": "https://www.cmd5.com/"
+	},
+	"data": {
+		"groups": [
+			{
+				"id": 1,
+				"name": "admin",
+				"status": true
+			},
+			{
+				"id": 2,
+				"name": "friends",
+				"status": true
+			},
+			{
+				"id": 3,
+				"name": "Badminton team",
+				"status": true
+			},
+			{
+				"id": 4,
+				"name": "GWModel Lab",
+				"status": true
+			},
+			{
+				"id": 5,
+				"name": "Others",
+				"status": true
+			},
+			{
+				"id": 6,
+				"name": "KongXie",
+				"status": true
+			}
+		],
+		"users": [
+			{
+				"id": 1,
+				"account": 1,
+				"accountMd5": "463e0b7fd608b7b454a9b7df907a0982",
+				"groupId": 1,
+				"status": true
+			},
+			{
+				"id": 2,
+				"account": 2,
+				"accountMd5": "32347a85ecb260776ebeacf58a8ff2e6",
+				"groupId": 1,
+				"status": true
+			},
+			{
+				"id": 3,
+				"account": 3,
+				"accountMd5": "cd76822841b3d892471890cc9dbcfbff",
+				"groupId": 2,
+				"status": true
+			},
+			{
+				"id": 4,
+				"account": 4,
+				"accountMd5": "65e1cc6e2178352eb6dac83054f12296",
+				"groupId": 2,
+				"status": true
+			},
+			{
+				"id": 5,
+				"account": 5,
+				"accountMd5": "3a4c9b19e8c47dfc389a9488a7abf93e",
+				"groupId": 2,
+				"status": true
+			},
+			{
+				"id": 6,
+				"account": 6,
+				"accountMd5": "1f4fc028f8a1dbcab7b3678d07629642",
+				"groupId": 2,
+				"status": true
+			},
+			{
+				"id": 7,
+				"account": 7,
+				"accountMd5": "3632cadcc6b43267ae767b56ecd90b49",
+				"groupId": 3,
+				"status": true
+			},
+			{
+				"id": 8,
+				"account": 8,
+				"accountMd5": "85dd7349871bfc6ba684b07a4d5b93e4",
+				"groupId": 3,
+				"status": true
+			},
+			{
+				"id": 9,
+				"account": 9,
+				"accountMd5": "35eb8cd81651dd69786339b011d3f9a7",
+				"groupId": 3,
+				"status": true
+			},
+			{
+				"id": 10,
+				"account": 10,
+				"accountMd5": "ac6a314da3955e9136f76f06a0b14722",
+				"groupId": 3,
+				"status": true
+			},
+			{
+				"id": 11,
+				"account": 11,
+				"accountMd5": "4cef15e5663cc656ca6052e7b43c31c2",
+				"groupId": 3,
+				"status": true
+			},
+			{
+				"id": 12,
+				"account": 12,
+				"accountMd5": "2df6d01867de6714e7f9d55634dc460e",
+				"groupId": 3,
+				"status": true
+			},
+			{
+				"id": 13,
+				"account": 13,
+				"accountMd5": "6c629a87b78950fd6ec4104ba3e8b6f1",
+				"groupId": 3,
+				"status": true
+			},
+			{
+				"id": 14,
+				"account": 14,
+				"accountMd5": "ce613c257581ed7f2f7a17f3dad8674b",
+				"groupId": 3,
+				"status": true
+			},
+			{
+				"id": 15,
+				"account": 15,
+				"accountMd5": "64768dc427baae6ab134926780cbd5ce",
+				"groupId": 3,
+				"status": true
+			},
+			{
+				"id": 16,
+				"account": 16,
+				"accountMd5": "3dd54cb2fef03c41c987ef5f79c06ba1",
+				"groupId": 3,
+				"status": true
+			},
+			{
+				"id": 17,
+				"account": 17,
+				"accountMd5": "5eb829422ae6f6035a5e70af1a9228cb",
+				"groupId": 3,
+				"status": true
+			},
+			{
+				"id": 18,
+				"account": 18,
+				"accountMd5": "4ce59e35934e937d0efd78035df92987",
+				"groupId": 2,
+				"status": true
+			},
+			{
+				"id": 19,
+				"account": 19,
+				"accountMd5": "0e0a8830063dffba1ff61a4f004f612a",
+				"groupId": 2,
+				"status": true
+			},
+			{
+				"id": 20,
+				"account": 20,
+				"accountMd5": "e7fe3ea6c8f7f3ad0f15c9b3221e3eb6",
+				"groupId": 2,
+				"status": true
+			},
+			{
+				"id": 21,
+				"account": 21,
+				"accountMd5": "c6c72c543e475f38b94d8c21a35972f2",
+				"groupId": 2,
+				"status": true
+			},
+			{
+				"id": 22,
+				"account": 22,
+				"accountMd5": "4e03818fd839a0aab11e9ace8ad29f9b",
+				"groupId": 2,
+				"status": true
+			},
+			{
+				"id": 23,
+				"account": 23,
+				"accountMd5": "2988bd8728081df6c0bdb4c7b514d985",
+				"groupId": 2,
+				"status": true
+			},
+			{
+				"id": 24,
+				"account": 24,
+				"accountMd5": "2eacce11d4cbb6587b558df1c3f6f1eb",
+				"groupId": 2,
+				"status": true
+			},
+			{
+				"id": 25,
+				"account": 25,
+				"accountMd5": "9723a22c6f0022719b1db1a7b0c07125",
+				"groupId": 2,
+				"status": true
+			},
+			{
+				"id": 26,
+				"account": 26,
+				"accountMd5": "da00b186b9e2e7679fd20a9f286755d5",
+				"groupId": 5,
+				"status": true
+			},
+			{
+				"id": 27,
+				"account": 27,
+				"accountMd5": "92bd38dc5ecc9bbc53de9ebef2551c72",
+				"groupId": 5,
+				"status": true
+			},
+			{
+				"id": 28,
+				"account": 28,
+				"accountMd5": "0ade0054c2186ba42af70c68be9c0e8f",
+				"groupId": 5,
+				"status": true
+			},
+			{
+				"id": 29,
+				"account": 29,
+				"accountMd5": "c1a01305f43f3317ccebd2cca70265bc",
+				"groupId": 2,
+				"status": true
+			},
+			{
+				"id": 30,
+				"account": 30,
+				"accountMd5": "6397db969016e1b8fb9bb35bb0391de0",
+				"groupId": 5,
+				"status": true
+			},
+			{
+				"id": 31,
+				"account": 31,
+				"accountMd5": "00e7692ce7e67a4c9872d408d398efbb",
+				"groupId": 2,
+				"status": true
+			},
+			{
+				"id": 32,
+				"account": 32,
+				"accountMd5": "464b89b906bfc72e89cfb792ab68850b",
+				"groupId": 5,
+				"status": true
+			},
+			{
+				"id": 33,
+				"account": 33,
+				"accountMd5": "02d921e547173252ec4911be51bd0d34",
+				"groupId": 2,
+				"status": true
+			},
+			{
+				"id": 34,
+				"account": 34,
+				"accountMd5": "474c64fec76122bb81fa938ce6c55bb4",
+				"groupId": 5,
+				"status": true
+			},
+			{
+				"id": 35,
+				"account": 35,
+				"accountMd5": "92c776c72c83c23f0a1c34b6ebb148ea",
+				"groupId": 2,
+				"status": true
+			},
+			{
+				"id": 36,
+				"account": 36,
+				"accountMd5": "f85029450037c652cefa126ea352132e",
+				"groupId": 5,
+				"status": true
+			},
+			{
+				"id": 37,
+				"account": 37,
+				"accountMd5": "ec4b09ce0d06f2664ea50cd293d9c35d",
+				"groupId": 5,
+				"status": true
+			},
+			{
+				"id": 38,
+				"account": 38,
+				"accountMd5": "99d34605bc421b841a29a23f3cd4df0e",
+				"groupId": 5,
+				"status": true
+			},
+			{
+				"id": 39,
+				"account": 39,
+				"accountMd5": "3ce203cdf33f9c76d1c2dc1ef244615d",
+				"groupId": 2,
+				"status": true
+			},
+			{
+				"id": 40,
+				"account": 40,
+				"accountMd5": "9a14779839c69849aedd13883324e4c0",
+				"groupId": 5,
+				"status": true
+			},
+			{
+				"id": 41,
+				"account": 41,
+				"accountMd5": "8b3632b56e5657455cb4823b79c5e2eb",
+				"groupId": 2,
+				"status": true
+			},
+			{
+				"id": 42,
+				"account": 42,
+				"accountMd5": "0892cae14ab484cd5ad07131b9a64700",
+				"groupId": 5,
+				"status": true
+			},
+			{
+				"id": 43,
+				"account": 43,
+				"accountMd5": "caa125a726e8a94ae15a1aedfc23938e",
+				"groupId": 5,
+				"status": true
+			},
+			{
+				"id": 44,
+				"account": 44,
+				"accountMd5": "003ddbe2f4759368b24e92ab205b0d5f",
+				"groupId": 6,
+				"status": true
+			},
+			{
+				"id": 45,
+				"account": 45,
+				"accountMd5": "515b7ed17fd5c6ab4082487011ea307b",
+				"groupId": 5,
+				"status": true
+			},
+			{
+				"id": 46,
+				"account": 46,
+				"accountMd5": "fc454b82edf87cbd885c295b4dde8696",
+				"groupId": 5,
+				"status": true
+			},
+			{
+				"id": 47,
+				"account": 47,
+				"accountMd5": "97c5044dbad1b86ea37307fd57ecf249",
+				"groupId": 5,
+				"status": true
+			},
+			{
+				"id": 48,
+				"account": 48,
+				"accountMd5": "7c659f22bfb69f93702692dd2f0aa7b7",
+				"groupId": 5,
+				"status": true
+			},
+			{
+				"id": 49,
+				"account": 49,
+				"accountMd5": "7a1b1950133f545ebab29a604368fa97",
+				"groupId": 5,
+				"status": true
+			},
+			{
+				"id": 50,
+				"account": 50,
+				"accountMd5": "71d53bd73261a7a54e6e27f8b9c74b8d",
+				"groupId": 2,
+				"status": true
+			},
+			{
+				"id": 51,
+				"account": 51,
+				"accountMd5": "fdec107709f0ffdf9cc28485ad5d7329",
+				"groupId": 3,
+				"status": true
+			},
+			{
+				"id": 52,
+				"account": 52,
+				"accountMd5": "a27b6adf0d83ed5154a1b233c736c6fb",
+				"groupId": 5,
+				"status": true
+			},
+			{
+				"id": 53,
+				"account": 53,
+				"accountMd5": "2a65f03b2f5ea4ed1058450fe9a3335b",
+				"groupId": 5,
+				"status": true
+			},
+			{
+				"id": 54,
+				"account": 54,
+				"accountMd5": "c5f373b0217922185a3755e27668d8ec",
+				"groupId": 3,
+				"status": true
+			},
+			{
+				"id": 55,
+				"account": 55,
+				"accountMd5": "ec46f87f5ef52566999663f910e2040d",
+				"groupId": 6,
+				"status": true
+			},
+			{
+				"id": 56,
+				"account": 56,
+				"accountMd5": "d4861779ae30ed8ad641700a78b9b1e8",
+				"groupId": 5,
+				"status": true
+			},
+			{
+				"id": 57,
+				"account": 57,
+				"accountMd5": "032f8ff53b94fe656243b58f1e9e769f",
+				"groupId": 5,
+				"status": true
+			},
+			{
+				"id": 58,
+				"account": 58,
+				"accountMd5": "3eae3dae80d390a527974983401c09f3",
+				"groupId": 5,
+				"status": true
+			},
+			{
+				"id": 59,
+				"account": 59,
+				"accountMd5": "cc51c031ce95cc09aed9260de1af4d64",
+				"groupId": 5,
+				"status": true
+			},
+			{
+				"id": 60,
+				"account": 60,
+				"accountMd5": "cf1783b938449b592ce75c543238412f",
+				"groupId": 6,
+				"status": true
+			},
+			{
+				"id": 61,
+				"account": 61,
+				"accountMd5": "2ea148294ad55fa76dcd73e5e64d8c77",
+				"groupId": 5,
+				"status": true
+			},
+			{
+				"id": 62,
+				"account": 62,
+				"accountMd5": "6122670505404c480827bd97ae96ae55",
+				"groupId": 2,
+				"status": true
+			},
+			{
+				"id": 63,
+				"account": 63,
+				"accountMd5": "459107349b28cd0246617df78b14531f",
+				"groupId": 2,
+				"status": true
+			},
+			{
+				"id": 64,
+				"account": 64,
+				"accountMd5": "464b89b906bfc72e89cfb792ab68850b",
+				"groupId": 5,
+				"status": true
+			},
+			{
+				"id": 65,
+				"account": 65,
+				"accountMd5": "f0098c579de25f0131a2d7ee82df2be4",
+				"groupId": 5,
+				"status": true
+			},
+			{
+				"id": 66,
+				"account": 66,
+				"accountMd5": "82b66e70d9d4b7e1fee1344971eaf599",
+				"groupId": 5,
+				"status": true
+			},
+			{
+				"id": 67,
+				"account": 67,
+				"accountMd5": "d818ed0fc372e11ae1ff3e7b2c9d87bf",
+				"groupId": 5,
+				"status": true
+			},
+			{
+				"id": 68,
+				"account": 68,
+				"accountMd5": "8a7fb0a7055ec55c5cb20ee8f5beaba3",
+				"groupId": 5,
+				"status": true
+			},
+			{
+				"id": 69,
+				"account": 69,
+				"accountMd5": "f5fff56bc7ee62c2814552170d4a5128",
+				"groupId": 5,
+				"status": true
+			},
+			{
+				"id": 70,
+				"account": 70,
+				"accountMd5": "4eb0d90d40bcc2254aef9cea1f7ee22a",
+				"groupId": 5,
+				"status": true
+			},
+			{
+				"id": 71,
+				"account": 71,
+				"accountMd5": "d1ee30e175b0170a6c1d7c5a3d280aef",
+				"groupId": 6,
+				"status": true
+			},
+			{
+				"id": 72,
+				"account": 72,
+				"accountMd5": "22f28fdfe93a24697ecbd2528b0fa685",
+				"groupId": 6,
+				"status": true
+			},
+			{
+				"id": 73,
+				"account": 73,
+				"accountMd5": "917a16caee7f2628d591732f85e6cd5f",
+				"groupId": 5,
+				"status": true
+			},
+			{
+				"id": 74,
+				"account": 74,
+				"accountMd5": "3738ca448a8f4f30610ee5ef3af81595",
+				"groupId": 5,
+				"status": true
+			},
+			{
+				"id": 75,
+				"account": 75,
+				"accountMd5": "bc02027cd51095701f2a7886b7fc062f",
+				"groupId": 5,
+				"status": true
+			},
+			{
+				"id": 76,
+				"account": 76,
+				"accountMd5": "903d298de8e7d394b2856cea28447918",
+				"groupId": 5,
+				"status": true
+			},
+			{
+				"id": 77,
+				"account": 77,
+				"accountMd5": "25e90bba87818aac39c9a2067b93d0f6",
+				"groupId": 5,
+				"status": true
+			},
+			{
+				"id": 78,
+				"account": 78,
+				"accountMd5": "4e368c77cf27a2274a1e9dd7b45656e6",
+				"groupId": 5,
+				"status": true
+			},
+			{
+				"id": 79,
+				"account": 79,
+				"accountMd5": "b7a0697dabcf1520def1b473c993f64e",
+				"groupId": 5,
+				"status": true
+			},
+			{
+				"id": 80,
+				"account": 80,
+				"accountMd5": "3c0370ae0743454a6137808355b7e193",
+				"groupId": 5,
+				"status": true
+			},
+			{
+				"id": 81,
+				"account": 81,
+				"accountMd5": "838d3a94458a36e4a6eb17dd21569aed",
+				"groupId": 5,
+				"status": true
+			},
+			{
+				"id": 82,
+				"account": 82,
+				"accountMd5": "52d7997d90bde78e79dd44f16bc83b91",
+				"groupId": 5,
+				"status": true
+			},
+			{
+				"id": 83,
+				"account": 83,
+				"accountMd5": "c3fec7fbdbb54005e047821786f8179b",
+				"groupId": 5,
+				"status": true
+			},
+			{
+				"id": 84,
+				"account": 84,
+				"accountMd5": "74721c871e1f640237a24af1c7255651",
+				"groupId": 5,
+				"status": true
+			},
+			{
+				"id": 85,
+				"account": 85,
+				"accountMd5": "18035cd02247d42b6bea90b9f155f836",
+				"groupId": 5,
+				"status": true
+			},
+			{
+				"id": 86,
+				"account": 86,
+				"accountMd5": "9ed2a34b77308b0b24e53ac19e969945",
+				"groupId": 5,
+				"status": true
+			},
+			{
+				"id": 87,
+				"account": 87,
+				"accountMd5": "1c2a098c8b134305a158e767963f5f32",
+				"groupId": 5,
+				"status": true
+			},
+			{
+				"id": 88,
+				"account": 88,
+				"accountMd5": "21f91e3afe0688e9f36559504f43dafb",
+				"groupId": 5,
+				"status": true
+			},
+			{
+				"id": 89,
+				"account": 89,
+				"accountMd5": "5ead94d2b89f211be4a85d1188696e0d",
+				"groupId": 5,
+				"status": true
+			},
+			{
+				"id": 90,
+				"account": 90,
+				"accountMd5": "5ca12b9decb8b28924dc12ea9891aef3",
+				"groupId": 5,
+				"status": true
+			},
+			{
+				"id": 91,
+				"account": 91,
+				"accountMd5": "af7160d381daac01ab5641c17c79a542",
+				"groupId": 5,
+				"status": true
+			},
+			{
+				"id": 92,
+				"account": 92,
+				"accountMd5": "463847ac923c424c8dfbb1abab44a391",
+				"groupId": 5,
+				"status": true
+			},
+			{
+				"id": 93,
+				"account": 93,
+				"accountMd5": "c65a98401495ba4f3aaf57c3efb94677",
+				"groupId": 5,
+				"status": true
+			},
+			{
+				"id": 94,
+				"account": 94,
+				"accountMd5": "6d3acc9068457b3c5b1d4d3286036258",
+				"groupId": 5,
+				"status": true
+			},
+			{
+				"id": 95,
+				"account": 95,
+				"accountMd5": "60ea7fd4e675023ca43c57184a7dfa6f",
+				"groupId": 5,
+				"status": true
+			},
+			{
+				"id": 96,
+				"account": 96,
+				"accountMd5": "7c44c0af649259abea05caef7e539b4f",
+				"groupId": 5,
+				"status": true
+			},
+			{
+				"id": 97,
+				"account": 97,
+				"accountMd5": "59cc6de20abc0c44ec8a789310b6d355",
+				"groupId": 5,
+				"status": true
+			},
+			{
+				"id": 98,
+				"account": 98,
+				"accountMd5": "b3a95025eecdafb7c87577fe36a8914c",
+				"groupId": 5,
+				"status": true
+			},
+			{
+				"id": 99,
+				"account": 99,
+				"accountMd5": "c9b760bb963c6bc888944682843c3859",
+				"groupId": 5,
+				"status": true
+			},
+			{
+				"id": 100,
+				"account": 100,
+				"accountMd5": "9bf535988eeff5cc31562db0c6ac20a8",
+				"groupId": 5,
+				"status": true
+			},
+			{
+				"id": 101,
+				"account": 101,
+				"accountMd5": "47a15faa0bf23daefb7480a1f72676df",
+				"groupId": 5,
+				"status": true
+			},
+			{
+				"id": 102,
+				"account": 102,
+				"accountMd5": "8d340f71b62d8d6eae3d3e7297c84774",
+				"groupId": 5,
+				"status": true
+			},
+			{
+				"id": 103,
+				"account": 103,
+				"accountMd5": "4edaf7ad4b791f26280d84fbf0cabe16",
+				"groupId": 5,
+				"status": true
+			},
+			{
+				"id": 104,
+				"account": 104,
+				"accountMd5": "8a2a09844dadd337d8cff546359249d3",
+				"groupId": 5,
+				"status": true
+			},
+			{
+				"id": 105,
+				"account": 105,
+				"accountMd5": "0e58408b9e87869e726ec1b081794db8",
+				"groupId": 5,
+				"status": true
+			},
+			{
+				"id": 106,
+				"account": 106,
+				"accountMd5": "1ab42ffc673779dcbb2ad367d1d34114",
+				"groupId": 5,
+				"status": true
+			},
+			{
+				"id": 107,
+				"account": 107,
+				"accountMd5": "92059d1489ddb8a3ce9164120d2b1561",
+				"groupId": 5,
+				"status": true
+			},
+			{
+				"id": 108,
+				"account": 108,
+				"accountMd5": "0496489aaa692271eb58d87bca2b75d1",
+				"groupId": 5,
+				"status": true
+			},
+			{
+				"id": 109,
+				"account": 109,
+				"accountMd5": "2a388f5a33941d93438cc62cdbd89cbc",
+				"groupId": 5,
+				"status": true
+			},
+			{
+				"id": 110,
+				"account": 110,
+				"accountMd5": "87b6df624a30ab95124d566bd8afe5e2",
+				"groupId": 5,
+				"status": true
+			},
+			{
+				"id": 111,
+				"account": 111,
+				"accountMd5": "afd351abdc95f0f362d86efafcdc76c9",
+				"groupId": 5,
+				"status": true
+			},
+			{
+				"id": 112,
+				"account": 112,
+				"accountMd5": "10797f9c29ae1f8e3b5a99fbe0028cd7",
+				"groupId": 5,
+				"status": true
+			},
+			{
+				"id": 113,
+				"account": 113,
+				"accountMd5": "5419cd41ac307716195a9fbb73a9324c",
+				"groupId": 5,
+				"status": true
+			},
+			{
+				"id": 114,
+				"account": 114,
+				"accountMd5": "af631b53ebb967ab277725234c115c27",
+				"groupId": 5,
+				"status": true
+			},
+			{
+				"id": 115,
+				"account": 115,
+				"accountMd5": "69202adeca8e7f7e1c0e7693705461b1",
+				"groupId": 5,
+				"status": true
+			},
+			{
+				"id": 116,
+				"account": 116,
+				"accountMd5": "e6737e388b7f8429f8230fc5083ab20a",
+				"groupId": 5,
+				"status": true
+			},
+			{
+				"id": 117,
+				"account": 117,
+				"accountMd5": "a68118f7c7244f04753c11849f1c9fad",
+				"groupId": 5,
+				"status": true
+			},
+			{
+				"id": 118,
+				"account": 118,
+				"accountMd5": "3d0c7be0f1d996c27b8979abb4c813d0",
+				"groupId": 5,
+				"status": true
+			},
+			{
+				"id": 119,
+				"account": 119,
+				"accountMd5": "5d3bcebf79c029db4c20c8239bb2d1f9",
+				"groupId": 5,
+				"status": true
+			},
+			{
+				"id": 120,
+				"account": 120,
+				"accountMd5": "b71dd290a5b163f422c1f1df491f8e05",
+				"groupId": 5,
+				"status": true
+			},
+			{
+				"id": 121,
+				"account": 121,
+				"accountMd5": "0789cb60afe85e0c1748661244fe51bd",
+				"groupId": 5,
+				"status": true
+			},
+			{
+				"id": 122,
+				"account": 122,
+				"accountMd5": "b84c6dcf2c237e2d08cb42b452b16c11",
+				"groupId": 5,
+				"status": true
+			},
+			{
+				"id": 123,
+				"account": 123,
+				"accountMd5": "ec007a69d26d7372f01fa7464bb6cb1c",
+				"groupId": 5,
+				"status": true
+			},
+			{
+				"id": 124,
+				"account": 124,
+				"accountMd5": "54f8993564989ac73ed7b634773746fa",
+				"groupId": 5,
+				"status": true
+			},
+			{
+				"id": 125,
+				"account": 125,
+				"accountMd5": "1f8954ba11f4d1b31d7400658c962aa8",
+				"groupId": 5,
+				"status": true
+			},
+			{
+				"id": 126,
+				"account": 126,
+				"accountMd5": "43e59c5f0be80ed87fe79fc238f2e0e4",
+				"groupId": 5,
+				"status": true
+			},
+			{
+				"id": 127,
+				"account": 127,
+				"accountMd5": "1cfe0a68024539b2348687cd054f2ee8",
+				"groupId": 5,
+				"status": true
+			},
+			{
+				"id": 128,
+				"account": 128,
+				"accountMd5": "8b4b6b1ac9e986a74c5adc559e615f97",
+				"groupId": 5,
+				"status": true
+			},
+			{
+				"id": 129,
+				"account": 129,
+				"accountMd5": "2a0407d125034b468a7461600cf1f482",
+				"groupId": 5,
+				"status": true
+			},
+			{
+				"id": 130,
+				"account": 130,
+				"accountMd5": "ac7d3da80cf512ca6d4a99ae290a0dd2",
+				"groupId": 5,
+				"status": true
+			}
+		]
+	}
+}
