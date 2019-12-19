@@ -1,8 +1,8 @@
 ### 公告 (2019-08-25 18.00)
 
-<a target="_blank" href="https://github.com/CS-Tao/whu-library-seat-mobile/releases/tag/v1.7.0">移动端 v1.7.0 更新日志</a>
+<a target="_blank" href="https://github.com/CS-Tao/whu-library-seat-mobile/releases/tag/v1.7.1">移动端 v1.7.1 更新日志</a>
 
-<a target="_blank" href="https://github.com/CS-Tao/whu-library-seat/releases/tag/v1.9.0">桌面端 v1.9.0 更新日志</a>
+<a target="_blank" href="https://github.com/CS-Tao/whu-library-seat/releases/tag/v1.9.1">桌面端 v1.9.1 更新日志</a>
 
 #### 功能说明
 
