@@ -2,8 +2,6 @@
 
 <a target="_blank" href="https://github.com/CS-Tao/whu-library-seat-mobile/releases/tag/v1.7.3">移动端 v1.7.3 更新日志</a>
 
-<a target="_blank" href="https://github.com/CS-Tao/whu-library-seat/releases/tag/v1.9.5">桌面端 v1.9.5 更新日志</a>
-
 #### 功能说明
 
 - 定时抢座：选好时间位置，点击定时抢座的按钮，设置开始抢座的时间
