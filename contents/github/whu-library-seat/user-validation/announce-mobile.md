@@ -1,4 +1,6 @@
-### 公告 (2020-01-06 20.00)
+### 公告 (2020-10-11 20.00)
+
+<a target="_blank" href="https://github.com/CS-Tao/whu-library-seat/blob/master/README.md#最新版本下载">桌面端下载链接</a>
 
 <a target="_blank" href="https://github.com/CS-Tao/whu-library-seat-mobile/releases/tag/v1.7.3">移动端 v1.7.3 更新日志</a>
 
