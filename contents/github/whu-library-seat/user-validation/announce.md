@@ -1,10 +1,12 @@
-### 📰公告 (2020-10-22 22.00)
+### 📰 公告
 
-#### ⚖️免责声明
+> 🕙 2020-10-22 22.00
+
+#### ⚖️ 免责声明
 
 本软件和软件源代码仅用于学习研究和技术交流，使用本软件或软件源代码造成的任何不良影响由使用者自行承担，与软件开发人员无关
 
-#### 🎻功能说明
+#### 🎻 功能说明
 
 - **定时抢座**：选好时间位置，点击定时抢座的按钮，设置开始抢座的时间
 
@@ -18,7 +20,7 @@
 
 - **取消预约/终止使用/释放座位**：切换到预约历史页面查看
 
-#### 🎸其他说明
+#### 🎸 其他说明
 
 - "房间"的下拉列表中，"n 座空闲"表示当前有 n 个座位可以使用，但并不确定每个座位可供预约的时间
 
@@ -32,14 +34,14 @@
 
 - 如果有任何疑问可以联系我📧: whucstao@qq.com
 
-#### 📲手机扫一扫下载安卓版
+#### 📲 手机扫一扫下载安卓版
 
 <p align="center"><img alt="安卓版本二维码.jpg" src="http://home.cs-tao.cc/github-content/contents/github/whu-library-seat/user-validation/last-android.png" width="80%" height="80%"></p>
 
-#### ☕️欢迎请我喝咖啡
+#### ☕️ 欢迎请我喝咖啡
 
 <p align="center"><img alt="支付宝二维码.jpg" src="https://home.cs-tao.cc/blog/img/alipayimg.jpg" width="80%" height="80%"><br/><span style="color:rgb(0, 204, 0)">支付宝扫一扫</span></p>
 
 <p align="center"><img alt="微信二维码.jpg" src="https://home.cs-tao.cc/blog/img/wechatimg.jpg" width="80%" height="80%"><br/><span style="color:rgb(0, 204, 0)">微信扫一扫</span></p>
 
-#### 💯祝您使用愉快，学习进步😉
+#### 💯 祝您使用愉快，学习进步😉
