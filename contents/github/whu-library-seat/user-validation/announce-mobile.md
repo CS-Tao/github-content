@@ -36,7 +36,7 @@
 
 - 如果有任何疑问可以联系我
 
-[![Email](https://img.shields.io/badge/邮件%20📧-whucstao@qq.com-green.svg)](mailto:whucstao@qq.com)  [![Join the chat at https://gitter.im/whu-library-seat/Lobby](https://img.shields.io/badge/群聊%20💬-on%20gitter-28BC99.svg)](https://gitter.im/whu-library-seat/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+  [![Email](https://img.shields.io/badge/邮件%20📧-whucstao@qq.com-green.svg)](mailto:whucstao@qq.com)  [![Join the chat at https://gitter.im/whu-library-seat/Lobby](https://img.shields.io/badge/群聊%20💬-on%20gitter-28BC99.svg)](https://gitter.im/whu-library-seat/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 #### 📲 扫一扫下载安卓版
 
