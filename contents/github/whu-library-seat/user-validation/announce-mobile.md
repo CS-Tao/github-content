@@ -1,8 +1,10 @@
-### 📰 公告 (2020-10-22 22.00)
+### 📰 公告
 
-💻 <a target="_blank" href="https://github.com/CS-Tao/whu-library-seat/blob/master/README.md#最新版本下载">桌面端下载链接</a>
+> 🕙 2020-10-22 22.00
 
-📋 <a target="_blank" href="https://github.com/CS-Tao/whu-library-seat-mobile/releases/tag/v1.7.5">移动端 v1.7.5 更新日志</a>
+- 💻 <a target="_blank" href="https://github.com/CS-Tao/whu-library-seat/blob/master/README.md#最新版本下载">桌面端下载链接</a>
+
+- 📋 <a target="_blank" href="https://github.com/CS-Tao/whu-library-seat-mobile/releases/tag/v1.7.5">移动端 v1.7.5 更新日志</a>
 
 #### ⚖️ 免责声明
 
