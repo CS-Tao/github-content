@@ -31,8 +31,8 @@
 - 短时间内向图书馆后台发送大量请求会被图书馆暂时性封号(30min)，请节制使用本软件
 
 - 如果有任何疑问可以联系我
-  - 邮件📧: [![Email](https://img.shields.io/badge/Email-whucstao@qq.com-green.svg)](mailto:whucstao@qq.com)
-  - 群聊💬: [![Join the chat at https://gitter.im/whu-library-seat/Lobby](https://img.shields.io/badge/Chat-on%20gitter-28BC99.svg)](https://gitter.im/whu-library-seat/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+  - [![Email](https://img.shields.io/badge/邮件-whucstao@qq.com-green.svg)](mailto:whucstao@qq.com)
+  - [![Join the chat at https://gitter.im/whu-library-seat/Lobby](https://img.shields.io/badge/群聊-on%20gitter-28BC99.svg)](https://gitter.im/whu-library-seat/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 #### 📲 手机扫一扫下载安卓版
 
