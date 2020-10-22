@@ -44,4 +44,4 @@
 
 <p align="center"><img alt="微信二维码.jpg" src="https://home.cs-tao.cc/blog/img/wechatimg.jpg" width="80%" height="80%"><br/><span style="color:rgb(0, 204, 0)">微信扫一扫</span></p>
 
-#### 😉 祝您使用愉快，学习进步💯
+#### 😉 祝您使用愉快，学习进步 💯
