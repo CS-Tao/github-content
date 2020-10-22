@@ -1,6 +1,4 @@
-### 📰 公告
-
-> 🕙 2020-10-22 22.00
+### 📰 公告 | 🕙 2020-10-22 22.00
 
 - 💻 <a target="_blank" href="https://github.com/CS-Tao/whu-library-seat/blob/master/README.md#最新版本下载">桌面端下载链接</a>
 
