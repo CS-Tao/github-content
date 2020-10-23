@@ -1,4 +1,4 @@
-### 📰 公告 | 🕙 2020-10-22 22.00
+### 📰 公告 | 🕙 2020-10-23 10.00
 
 #### ⚖️ 免责声明
 
@@ -36,7 +36,7 @@
 
 - 如果有任何疑问可以联系我
 
-  [![Email](https://img.shields.io/badge/邮件%20📧-whucstao@gmail.com-green.svg)](mailto:whucstao@gmail.com)    [![Join the chat at https://gitter.im/whu-library-seat/Lobby](https://img.shields.io/badge/群聊%20💬-on%20gitter-28BC99.svg)](https://gitter.im/whu-library-seat/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+  [![Email](https://img.shields.io/badge/邮件%20📧-whucstao@gmail.com-brightgreen.svg)](mailto:whucstao@gmail.com)    [![Join the chat at https://gitter.im/whu-library-seat/Lobby](https://img.shields.io/badge/群聊%20💬-on%20gitter-28BC99.svg)](https://gitter.im/whu-library-seat/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 #### 📲 扫一扫下载安卓版
 
@@ -44,7 +44,7 @@
 
 #### ☕️ 欢迎请我喝咖啡
 
-<p align="center"><img alt="支付宝二维码.jpg" src="https://home.cs-tao.cc/blog/img/alipayimg.jpg" width="80%" height="80%"><br/><span style="color:rgb(0, 204, 0)">支付宝扫一扫</span></p>
+<p align="center"><a href="alipays://platformapi/startapp?appId=09999988&actionType=toAccount&goBack=NO&amount=10&userId=2088022056177154&memo=感谢使用" target="_blank"><img alt="支付宝二维码.jpg" src="https://home.cs-tao.cc/blog/img/alipayimg.jpg" width="80%" height="80%"><br/><span style="color:rgb(0, 204, 0)">支付宝扫一扫</span></a></p>
 
 <p align="center"><img alt="微信二维码.jpg" src="https://home.cs-tao.cc/blog/img/wechatimg.jpg" width="80%" height="80%"><br/><span style="color:rgb(0, 204, 0)">微信扫一扫</span></p>
 
