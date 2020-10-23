@@ -32,7 +32,7 @@
 
 - 如果有任何疑问可以联系我
 
-  [![Email: whucstao@gmail.com](https://img.shields.io/badge/邮件%20📧-whucstao@gmail.com-green.svg)](mailto:whucstao@gmail.com)    <a href="https://gitter.im/whu-library-seat/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge" target="_blank"><img src="https://img.shields.io/badge/群聊%20💬-on%20gitter-28BC99.svg" alt="Chat on gitter"/></a>
+  [![Email: whucstao@gmail.com](https://img.shields.io/badge/邮件%20📧-whucstao@gmail.com-brightgreen.svg)](mailto:whucstao@gmail.com)    <a href="https://gitter.im/whu-library-seat/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge" target="_blank"><img src="https://img.shields.io/badge/群聊%20💬-on%20gitter-28BC99.svg" alt="Chat on gitter"/></a>
 
 #### 📲 手机扫一扫下载安卓版
 
