@@ -1,4 +1,4 @@
-### 📰 公告 | 🕙 2020-10-23 10.00
+### 📰 公告 | 🕙 2020-10-23 11.00
 
 #### ⚖️ 免责声明
 
@@ -44,8 +44,8 @@
 
 #### ☕️ 欢迎请我喝咖啡
 
-<p align="center"><a href="alipays://platformapi/startapp?appId=09999988&actionType=toAccount&goBack=NO&amount=10&userId=2088022056177154&memo=感谢使用" target="_blank"><img alt="支付宝二维码.jpg" src="https://home.cs-tao.cc/blog/img/alipayimg.jpg" width="80%" height="80%"><br/><span style="color:rgb(0, 204, 0)">支付宝扫一扫</span></a></p>
+<p align="center"><a href="https://home.cs-tao.cc/blog/img/alipayimg.jpg" target="_blank"><img alt="支付宝二维码.jpg" src="https://home.cs-tao.cc/blog/img/alipayimg.jpg" width="80%" height="80%"><br/><span style="color:#108ee9">点击保存支付宝二维码</span></a></p>
 
-<p align="center"><img alt="微信二维码.jpg" src="https://home.cs-tao.cc/blog/img/wechatimg.jpg" width="80%" height="80%"><br/><span style="color:rgb(0, 204, 0)">微信扫一扫</span></p>
+<p align="center"><a href="https://home.cs-tao.cc/blog/img/wechatimg.jpg" target="_blank"><img alt="微信二维码.jpg" src="https://home.cs-tao.cc/blog/img/wechatimg.jpg" width="80%" height="80%"><br/><span style="color:#2F8819">点击保存微信二维码</span></a></p>
 
 #### 😉 祝您使用愉快，学习进步 💯
