@@ -1,5 +1,5 @@
 function printAndReturn() {
-  console.log('hello world from remote script');
+  console.log('%chello world from remote script', 'color:red');
   return 1 + 1;
 }
 
