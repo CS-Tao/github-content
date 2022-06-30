@@ -2,5 +2,5 @@
   "available": true,
   "prohibitMsg": "",
   "announcement": "v1 公测中...",
-  "blackList": ["CS-Tao"]
+  "blackList": []
 }
