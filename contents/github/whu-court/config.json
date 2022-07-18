@@ -3,5 +3,5 @@
   "prohibitMsg": "",
   "announcement": "v1 公测中...",
   "blackList": [],
-  "whiteList": ['CS-Tao', 'lsq210']
+  "whiteList": ["CS-Tao", "lsq210"]
 }
