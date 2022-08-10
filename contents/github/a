@@ -1,0 +1,77 @@
+import { FC, useCallback, useRef, useState } from "react";
+import "./style.less";
+
+const Demo: FC = () => {
+  const mouseDownPoint = useRef<{ top: number; left: number } | null>(null);
+  const [top, setTop] = useState(100);
+  const [left, setLeft] = useState(100);
+
+  const handleMouseDown = useCallback(
+    (e: React.MouseEvent<HTMLDivElement, MouseEvent>) => {
+      mouseDownPoint.current = {
+        top: e.nativeEvent.clientY,
+        left: e.nativeEvent.clientX,
+      };
+      console.log("handleMouseDown", e);
+    },
+    []
+  );
+
+  const handleMouseMove = useCallback(
+    (e: React.MouseEvent<HTMLDivElement, MouseEvent>) => {
+      if (!mouseDownPoint.current) return;
+
+      const currentPointTop = e.nativeEvent.clientY;
+      const currentPointLeft = e.nativeEvent.clientX;
+
+      const topDelta = currentPointTop - mouseDownPoint.current.top;
+      const leftDelta = currentPointLeft - mouseDownPoint.current.left;
+
+      const newTop = top + topDelta;
+      const newLeft = left + leftDelta;
+
+      if (newTop < 0 || newTop > 400) return;
+      if (newLeft < 0 || newLeft > 400) return;
+
+      mouseDownPoint.current = {
+        top: currentPointTop,
+        left: currentPointLeft,
+      };
+
+      setTop(newTop);
+      setLeft(newLeft);
+
+      console.log("handleMouseMove", e);
+    },
+    [left, top]
+  );
+
+  const handleMouseUp = useCallback(
+    (e: React.MouseEvent<HTMLDivElement, MouseEvent>) => {
+      mouseDownPoint.current = null;
+      console.log("handleMouseUp", e);
+    },
+    []
+  );
+
+  return (
+    <div className="container">
+      <div
+        id="card"
+        className="card"
+        onMouseDown={handleMouseDown}
+        onMouseMove={handleMouseMove}
+        onMouseUp={handleMouseUp}
+        style={{
+          top,
+          left,
+        }}
+      >
+        <div className="header"></div>
+        <div className="content" contentEditable></div>
+      </div>
+    </div>
+  );
+};
+
+export default Demo;
